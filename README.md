@@ -26,6 +26,7 @@ I am a data analyst with expertise in SQL, Python, Power BI, and Tableau, focusi
 ### Power BI Dashboard for High Clouds Airlines
 - Created a dashboard to monitor key airline metrics including revenue, customer satisfaction, and operational efficiency.
 - Utilized DAX queries, Power Query, and data modeling to provide insightful visualizations.
+- Picture/Airlines ss.JPG
 
 ### Automated Data Entry System for Logistics
 - Designed an Excel-based data entry panel for logistics transportation, automating report generation and dashboard updates.
